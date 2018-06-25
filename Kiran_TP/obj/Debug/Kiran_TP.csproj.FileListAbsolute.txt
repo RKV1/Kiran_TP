@@ -1,0 +1,6 @@
+D:\VS Projects\Kiran_TP\Kiran_TP\bin\Debug\Kiran_TP.dll
+D:\VS Projects\Kiran_TP\Kiran_TP\bin\Debug\Kiran_TP.pdb
+D:\VS Projects\Kiran_TP\Kiran_TP\obj\Debug\Kiran_TP.csprojResolveAssemblyReference.cache
+D:\VS Projects\Kiran_TP\Kiran_TP\obj\Debug\Kiran_TP.csproj.CoreCompileInputs.cache
+D:\VS Projects\Kiran_TP\Kiran_TP\obj\Debug\Kiran_TP.dll
+D:\VS Projects\Kiran_TP\Kiran_TP\obj\Debug\Kiran_TP.pdb
